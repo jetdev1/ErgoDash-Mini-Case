@@ -1,5 +1,7 @@
 # -ErgoDash-Mini-Case
-This a sandwich-mount case and plate I designed for a handwired ErgoDash Mini. Some notes about the files:
+This a sandwich-mount case and plate I designed for a handwired ErgoDash Mini. It's my first time doing CAD, feel free to submit PRs or let me know if you've got any suggestions! Also, I would appreciate it if you could attach a link to this page if you print this case and post photos of it.
+
+Some notes about the files:
 ![IMG_8191](https://user-images.githubusercontent.com/44137899/213839480-a12105c3-1af3-41c8-b59b-5b482faa5b62.jpg)
 
 1. Only use the KMK config files as reference. They're pretty messy as I had to compensate for some errors I made while handwiring.
